@@ -1,6 +1,7 @@
 **Projeto:** Organizador de Imposto de Renda no Excel
 
-Bootcamp Excel com IA | DIO + Santander Open Academy
+Projeto desenvolvido no Bootcamp de Excel com IA em parceria com a Santander Open Academy
+
 
 **Descrição do Projeto**
 
@@ -18,7 +19,8 @@ Ao longo do desenvolvimento deste projeto, foram aplicados os seguintes conhecim
 * Aplicação prática de automações no Excel;
 * Documentação de projeto técnico no GitHub.
 
-  *Funcionalidades*
+
+  **Funcionalidades**
   
 * Menu principal para navegação facilitada;
 * Planilhas organizadas por tipo de rendimento/despesa;
@@ -27,19 +29,22 @@ Ao longo do desenvolvimento deste projeto, foram aplicados os seguintes conhecim
 * Design limpo e amigável, com foco na experiência do usuário.
 
 
-  *Estrutura do Repositório*
+  **Estrutura do Repositório**
+  
 📄 README.md
 📄 arquivo-do-projeto.xlsx
 
 
- *Como Usar*
+ **Como Usar**
+ 
 Baixe o arquivo .xlsx disponível neste repositório;
 Abra o arquivo no Excel (de preferência, versão 2016 ou superior);
 Use o menu principal para navegar entre as seções;
 Preencha suas informações de forma estruturada e segura;
 Utilize os links e orientações disponíveis no arquivo para se guiar.
 
-  *Aprendizados*
+
+  **Aprendizados**
   
 Esse desafio foi uma excelente oportunidade para aplicar, de forma prática, os conceitos estudados no bootcamp, como:
 
@@ -48,7 +53,7 @@ Esse desafio foi uma excelente oportunidade para aplicar, de forma prática, os 
 * Boas práticas de UX em planilhas;
 * Documentação de projetos técnicos no GitHub.
 
-* Sobre o Bootcamp*
+** Sobre o Bootcamp**
   
 O Bootcamp Excel com IA é uma iniciativa da DIO, em parceria com a Santander Open Academy, com foco no desenvolvimento de habilidades em Excel, automações e inteligência artificial aplicada à análise de dados.
 
